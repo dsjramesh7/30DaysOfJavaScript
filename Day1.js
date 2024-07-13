@@ -33,9 +33,10 @@ heroName = "Deku";
 console.log(heroName);
 
 //task 6
-let heroName = "midoriya";
-console.log(heroName);
-heroName = "Deku";
-console.log(heroName);
+const cannotChangeMeWithConst = "seeNochange";
+console.log(cannotChangeMeWithConst);
+cannotChangeMeWithConst = "Deku";
+console.log(cannotChangeMeWithConst);
+
 
 
